@@ -1,7 +1,7 @@
 ﻿using System.Net;
 using Shouldly;
 
-namespace NodeInfo.Tests;
+namespace NodeId.Tests;
 
 [Collection("WebApp Collection")]
 public class IntegrationTests(WebApplicationFactoryFixture fixture)

@@ -1,10 +1,8 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NodeInfo.Api", "NodeInfo.Api\NodeInfo.Api.csproj", "{EF595826-4F5C-4B18-B8C0-2FE2C6E8E757}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NodeId.Api", "NodeId.Api\NodeId.Api.csproj", "{EF595826-4F5C-4B18-B8C0-2FE2C6E8E757}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NodeInfo.Tests", "NodeInfo.Tests\NodeInfo.Tests.csproj", "{97FCE77B-1EE0-4E91-8D03-7EF3BC84EEE3}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NodeInfo.Console", "NodeInfo.Console\NodeInfo.Console.csproj", "{F7B52683-BDFE-406F-895A-9326A7EFE48F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NodeId.Tests", "NodeId.Tests\NodeId.Tests.csproj", "{97FCE77B-1EE0-4E91-8D03-7EF3BC84EEE3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

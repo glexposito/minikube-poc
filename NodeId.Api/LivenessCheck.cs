@@ -1,6 +1,6 @@
 using Microsoft.Extensions.Diagnostics.HealthChecks;
 
-namespace NodeInfo.Api;
+namespace NodeId.Api;
 
 public class LivenessCheck : IHealthCheck
 {

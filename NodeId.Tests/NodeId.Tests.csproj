@@ -23,7 +23,7 @@
     </ItemGroup>
 
     <ItemGroup>
-      <ProjectReference Include="..\NodeInfo.Api\NodeInfo.Api.csproj" />
+      <ProjectReference Include="..\NodeId.Api\NodeId.Api.csproj" />
     </ItemGroup>
 
 </Project>

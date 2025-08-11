@@ -1,7 +1,6 @@
 using Microsoft.AspNetCore.Mvc.Testing;
 
-
-namespace NodeInfo.Tests;
+namespace NodeId.Tests;
 
 // ReSharper disable once ClassNeverInstantiated.Global
 public class WebApplicationFactoryFixture : IAsyncLifetime
